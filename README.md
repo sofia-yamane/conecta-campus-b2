@@ -8,7 +8,7 @@ Guia acadêmico de serviços, ambientes e recursos de acessibilidade.
 ## Situação do projeto
 Versão inicial em construção durante o primeiro semestre de ADS.
 ## Autor
-Taiane Mirella Santos de Alc
+Sofia Balieiro Yamane Caro
 
 ### ROADMAP
 - Iniciando com a confecção do README.md
